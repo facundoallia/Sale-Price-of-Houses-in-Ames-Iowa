@@ -11,7 +11,7 @@ The goal of the project is to create a house price prediction model for Ames, Io
 
 In the first instance, an exploratory analysis of the data was carried out, finding 80 features apart from the market price. Missing data was treated as well as outliers.
 
-![Image text](https://github.com/facundoallia/Sale-Price-of-Houses-in-Ames-Iowa/blob/main/Assets/dat.png)
+![Image text](https://github.com/facundoallia/Sale-Price-of-Houses-in-Ames-Iowa/blob/main/Assets/dat.jpg)
 
 A coding of the categorical variables was carried out, emphasizing the variable "Neighborhood". In addition, dummy variables were used to indicate the absence or presence of any categorical effect.
 
