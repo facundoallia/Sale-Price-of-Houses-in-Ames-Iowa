@@ -15,7 +15,7 @@ In the first instance, an exploratory analysis of the data was carried out, find
 
 A coding of the categorical variables was carried out, emphasizing the variable "Neighborhood". In addition, dummy variables were used to indicate the absence or presence of any categorical effect.
 
-![Image text](https://github.com/facundoallia/Sale-Price-of-Houses-in-Ames-Iowa/blob/main/Assets/nb.png)
+![Image text](https://github.com/facundoallia/Sale-Price-of-Houses-in-Ames-Iowa/blob/main/Assets/nb.jpg)
 
 ## About the model
 
@@ -23,7 +23,7 @@ A neural network model was created with Keras. It consists of 4 layers each with
 
 After 1000 epochs the model was trained obtaining the following metrics:
 
-![Image text](https://github.com/facundoallia/Sale-Price-of-Houses-in-Ames-Iowa/blob/main/Assets/md.png)
+![Image text](https://github.com/facundoallia/Sale-Price-of-Houses-in-Ames-Iowa/blob/main/Assets/md.jpg)
 
 + MAE: 3324.110065887578
 + MSE: 118403266.08580635
@@ -31,8 +31,8 @@ After 1000 epochs the model was trained obtaining the following metrics:
 + VarScore: 0.9817379379839103
 + RMSLE: 0.049078200765782204
 
-![Image text](https://github.com/facundoallia/Sale-Price-of-Houses-in-Ames-Iowa/blob/main/Assets/rg.png)
+![Image text](https://github.com/facundoallia/Sale-Price-of-Houses-in-Ames-Iowa/blob/main/Assets/rg.jpg)
 
 The residuals are presented with the following distribution:
 
-![Image text](https://github.com/facundoallia/Sale-Price-of-Houses-in-Ames-Iowa/blob/main/Assets/res.png)
+![Image text](https://github.com/facundoallia/Sale-Price-of-Houses-in-Ames-Iowa/blob/main/Assets/res.jpg)
